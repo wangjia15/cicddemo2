@@ -7,7 +7,6 @@ import pytest
 
 from calculator.core import add, subtract, multiply, divide, power
 
-
 # ==================== 加法测试 ====================
 
 
