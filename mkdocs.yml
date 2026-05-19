@@ -1,0 +1,8 @@
+site_name: cicddemo
+site_description: 计算器核心库文档
+theme:
+  name: material
+
+nav:
+  - 首页: index.md
+  - API 参考: api.md
