@@ -10,5 +10,6 @@ Catastrophic forgetting is the tendency of a neural network to lose previously a
 ## Related
 - [[Continual Learning]]
 - [[Knowledge Editing]]
+- [[Knowledge Updating Vs Forgetting]]
 - [[Parametric Memory]]
 - [[MOC - Parametric Memory and Editing]]
