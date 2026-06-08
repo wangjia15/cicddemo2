@@ -9,6 +9,7 @@ Continual learning is the setting in which a model must acquire a stream of new 
 
 ## Related
 - [[Catastrophic Forgetting]]
+- [[Knowledge Updating Vs Forgetting]]
 - [[Knowledge Editing]]
 - [[SERAC]]
 - [[Parametric Memory]]

@@ -14,6 +14,7 @@ Knowledge editing is the task of making targeted changes to a model's parametric
 - [[KnowledgeEditor]]
 - [[SERAC]]
 - [[Knowledge Neurons]]
+- [[Knowledge Updating Vs Forgetting]]
 - [[CounterFact]]
 - [[zsRE]]
 - [[MOC - Parametric Memory and Editing]]
