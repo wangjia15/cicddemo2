@@ -32,9 +32,9 @@ Cross-cutting: **evaluation & benchmarks**, and **open challenges**.
 11. **Conclusion.**
 
 ## Status tracker
-- [ ] Wiki notes (5 clusters) — in progress (research agents)
-- [ ] references.bib — assemble from agent returns
-- [ ] Sections 1–11 drafts
-- [ ] Mermaid figures
-- [ ] Citation audit + editor QA
-- [ ] Assemble `paper.md`
+- [x] Wiki notes — 84 atomic notes + 6 MOCs in `survey/vault/`
+- [x] references.bib — 64 verified entries; keys match all `[@cite]` usages
+- [x] Sections 1–11 drafts — in `survey/paper/sections/`
+- [x] Mermaid figures — 6 figures, validated via mermaid-cli
+- [x] Citation audit — 0 missing, 0 orphan keys
+- [x] Assemble `paper.md` — ~14,900 words with embedded figures + reference list
